@@ -1,0 +1,14 @@
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\bin\Debug\net6.0\UnityMultiplayerServer.exe
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\bin\Debug\net6.0\UnityMultiplayerServer.deps.json
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\bin\Debug\net6.0\UnityMultiplayerServer.runtimeconfig.json
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\bin\Debug\net6.0\UnityMultiplayerServer.dll
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\bin\Debug\net6.0\UnityMultiplayerServer.pdb
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\UnityMultiplayerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\UnityMultiplayerServer.AssemblyInfoInputs.cache
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\UnityMultiplayerServer.AssemblyInfo.cs
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\UnityMultiplayerServer.csproj.CoreCompileInputs.cache
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\UnityMultiplayerServer.dll
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\refint\UnityMultiplayerServer.dll
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\UnityMultiplayerServer.pdb
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\UnityMultiplayerServer.genruntimeconfig.cache
+C:\UnityMultiplayer\UnityMultiplayerTest\UnityMultiplayerServer\UnityMultiplayerServer\obj\Debug\net6.0\ref\UnityMultiplayerServer.dll
